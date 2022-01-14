@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hay Saya Kayla <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+![template_s](https://github.com/KaylaChaan/KaylaChaan/blob/main/images%20(1).jpeg)
+
+### Terima Kasih Khusus
+
+   - [`Fajar`]
 
 <!--
 **KaylaChaan/KaylaChaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
